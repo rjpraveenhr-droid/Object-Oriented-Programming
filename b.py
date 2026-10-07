@@ -10,9 +10,9 @@ class student:
         print("I study in grade", self.grade)
 
 o1=student(16,"Arnold",11)
-o1.intro
-o1.det
+o1.intro()
+o1.det()
 o2=student(14,"lohisree",9)
-o2.intro
-o2.det
+o2.intro()
+o2.det()
         
